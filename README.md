@@ -1,6 +1,8 @@
 # setAnnotChgAuthorName.js
 注釈の使用者をユーザー情報の姓名から取得して置き換えます
-
+詳しくは
+こちら
+https://force4u.cocolog-nifty.com/skywalker/2021/01/post-932680.html
 
 Adobe ReaderDC　Adobe Acrobat DC　用
 
