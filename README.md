@@ -3,20 +3,19 @@
 
 
 Adobe ReaderDC　Adobe Acrobat DC　用
-n（下位バージョンでは動作確認していないだけですが）
-nインストール先は以下
-n▼アプリケーションドメイン
-n/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/JavaScripts
-n/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Resources/JavaScripts
-n
-n▼ローカルドメイン
-n/Library/Application Support/Adobe/Acrobat/DC/JavaScripts
-n
-n▼ユーザードメイン
-n/Users/ユーザー名/Library/Application Support/Adobe/Acrobat/DC/JavaScripts
-n
-n▼WINDOWSはリーダーとDCが別
-nC:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\Javascripts
-nC:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Javascripts
-n
+（下位バージョンでは動作確認していないだけですが）
+インストール先は以下
+▼アプリケーションドメイン
+/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/JavaScripts
+/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Resources/JavaScripts
+
+▼ローカルドメイン
+/Library/Application Support/Adobe/Acrobat/DC/JavaScripts
+
+▼ユーザードメイン
+/Users/ユーザー名/Library/Application Support/Adobe/Acrobat/DC/JavaScripts
+
+▼WINDOWSはリーダーとDCが別
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\Javascripts
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Javascripts
 
