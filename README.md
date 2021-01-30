@@ -18,4 +18,3 @@ Adobe ReaderDC　Adobe Acrobat DC　用
 ▼WINDOWSはリーダーとDCが別
 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\Javascripts
 C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Javascripts
-
